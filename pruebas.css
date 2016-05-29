@@ -1,0 +1,37 @@
+.fondo{
+    background-color: black;
+    width:inherit;
+    height: inherit;
+}
+.fondo p{
+    color: gray;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.inicio{
+    background-color: green;
+    border-spacing: inherit;
+    height: 30px;
+    width: 120px;
+}
+
+#contacta{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+}
+.theimpossiblelist{
+    background-color: darkslateblue;
+}
+
+div img{
+    width: 30em;
+    height: 20em;
+    text-align: center;
+    align-items: flex-end;
+    float: right;
+}
+p{
+    color:blue;
+}
